@@ -1,0 +1,62 @@
+/**
+ * MoMo WooCommerce Payment - Admin Styles
+ */
+
+.woocommerce_page_wc-settings .momo-settings-section {
+    background: #f9f9f9;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 5px;
+}
+
+.woocommerce_page_wc-settings .momo-webhook-url {
+    background: #fff;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    font-family: monospace;
+    display: block;
+    margin: 10px 0;
+}
+
+.woocommerce_page_wc-settings .momo-info-box {
+    background: #e7f3ff;
+    border-left: 4px solid #2196F3;
+    padding: 15px;
+    margin: 15px 0;
+}
+
+.woocommerce_page_wc-settings .momo-warning-box {
+    background: #fff3cd;
+    border-left: 4px solid #ffc107;
+    padding: 15px;
+    margin: 15px 0;
+}
+
+.woocommerce_page_wc-settings .momo-logo {
+    max-width: 150px;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+/* Order page - MoMo transaction info */
+.order_data_column .momo-transaction-info {
+    background: #f9f9f9;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 3px;
+}
+
+.order_data_column .momo-transaction-info strong {
+    display: block;
+    margin-bottom: 5px;
+    color: #333;
+}
+
+.order_data_column .momo-transaction-info .momo-trans-id {
+    font-family: monospace;
+    background: #fff;
+    padding: 5px;
+    border: 1px solid #ddd;
+    display: inline-block;
+}
