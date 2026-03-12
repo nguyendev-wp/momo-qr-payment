@@ -4,7 +4,7 @@
  * Plugin URI: https://example.com/momo-woocommerce
  * Description: Tích hợp thanh toán MoMo QR Code và tự động cập nhật đơn hàng WooCommerce
  * Version: 1.0.0
- * Author: HuynhNguyenIT
+ * Author: Huynh Nguyen Dev
  * Author URI: https://example.com
  * Text Domain: momo-woocommerce
  * Domain Path: /languages
